@@ -1,7 +1,3 @@
--- Portfolio SQL project for a System Analyst vacancy
--- Scenario: sales, stock and promo-effectiveness analysis for a retail chain
--- DB: PostgreSQL
-
 DROP TABLE IF EXISTS sales;
 DROP TABLE IF EXISTS inventory_snapshots;
 DROP TABLE IF EXISTS promotions;
